@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LKLogArchiver.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="path_log" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\</Value>
+    </Setting>
+    <Setting Name="path_destination" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\</Value>
+    </Setting>
+    <Setting Name="extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">evtx</Value>
+    </Setting>
+    <Setting Name="send_ftp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ftp_serwer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp.serwer</Value>
+    </Setting>
+    <Setting Name="ftp_login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">login_ftp</Value>
+    </Setting>
+    <Setting Name="ftp_katalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="log_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Security.evtx</Value>
+    </Setting>
+    <Setting Name="maska_nazwy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Archive-</Value>
+    </Setting>
+    <Setting Name="delete_old" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="szyfruj" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">haslo</Value>
+    </Setting>
+    <Setting Name="wersja" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="zastap" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ftp_haslo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="ftp_usun_stare" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ftp_suma" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
